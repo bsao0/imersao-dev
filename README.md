@@ -4,5 +4,5 @@ Readme do repositório.
 Instruções abaixo. 
 
 
-Informação nova:
+Nova informação:
 Sorteio!!!!
